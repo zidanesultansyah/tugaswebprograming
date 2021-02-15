@@ -1,0 +1,26 @@
+.jumbotron{
+    background-image: url(img/contoh.jpg);
+    background-size: cover;
+    height: 780px;
+    text-align: center;
+    margin-top: -120px;
+}
+.jumbotron .display-4 {
+    color :#00ffbf;
+    margin-top: 200px;
+    font-family:"sofia";
+}
+.jumbotron .lead{
+    color: rgb(236, 131, 45);
+    font-family:"sofia";
+   
+}
+.jumbotron .display-3 {
+    color :#00ffbf;
+    margin-top: 200px;
+    font-family:"sofia";
+}
+
+.jumbotron jumbotron-fluid{
+    height: 780px;
+}
